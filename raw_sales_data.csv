@@ -1,0 +1,31 @@
+Order ID,Order Date,Customer Name,City,State,Product Category,Product Name,Quantity,Unit Price,Total Sales,Discount,Profit
+1001,03/01/2024,Ravi Sharma,Mumbai,Maharashtra,Electronics,Wireless Earbuds,2,1299,2598,0,780
+1002,05/01/2024,Priya Mehta,Delhi,Delhi,Clothing,Cotton Kurta,3,599,1797,10,350
+1003,07/01/2024,Ankit Verma,Bangalore,Karnataka,Electronics,Phone Case,5,199,995,0,300
+1004,10/01/2024,Sunita Rao,Chennai,Tamil Nadu,Home & Kitchen,Non-stick Pan,1,849,849,5,210
+1005,12/01/2024,Amit Joshi,Pune,Maharashtra,Books,Data Analytics Book,2,499,998,0,400
+1006,15/01/2024,,Hyderabad,Telangana,Electronics,USB Cable,4,149,596,0,180
+1007,18/01/2024,Deepa Nair,Kochi,Kerala,Clothing,Formal Shirt,2,899,1798,15,400
+1008,20/01/2024,Rohit Gupta,Jaipur,Rajasthan,Home & Kitchen,Water Bottle,6,299,1794,0,540
+1009,22/01/2024,Kavya Singh,Lucknow,Uttar Pradesh,Books,Python Programming,1,699,699,0,280
+1010,25/01/2024,Manoj Pillai,Bhopal,Madhya Pradesh,Electronics,Bluetooth Speaker,2,1999,3998,10,900
+1011,28/01/2024,Neha Agarwal,Nagpur,Maharashtra,Clothing,Denim Jeans,1,1299,1299,20,200
+1012,01/02/2024,Vijay Kumar,Surat,Gujarat,Home & Kitchen,Knife Set,1,649,649,0,195
+1013,04/02/2024,Pooja Desai,Ahmedabad,Gujarat,Books,Excel for Beginners,3,349,1047,5,420
+1014,06/02/2024,Kiran Reddy,Vizag,Andhra Pradesh,Electronics,Smart Watch,1,3499,3499,0,1050
+1015,08/02/2024,Arjun Nair,Coimbatore,Tamil Nadu,Clothing,Casual T-Shirt,4,399,1596,10,480
+1016,11/02/2024,Shreya Tiwari,Indore,Madhya Pradesh,Home & Kitchen,Mixer Grinder,1,2199,2199,5,660
+1017,14/02/2024,Rahul Mishra,Patna,Bihar,Books,SQL Basics,2,449,898,0,360
+1018,17/02/2024,Megha Saxena,Chandigarh,Punjab,Electronics,Laptop Stand,1,899,899,0,270
+1019,19/02/2024,Suresh Babu,Mysore,Karnataka,Clothing,Saree,1,2499,2499,10,600
+1020,22/02/2024,Nisha Pandey,Varanasi,Uttar Pradesh,Home & Kitchen,Pressure Cooker,1,1499,1499,0,450
+1021,25/02/2024,Tarun Bhatt,Dehradun,Uttarakhand,Books,Statistics Guide,1,599,599,0,240
+1022,28/02/2024,Geeta Menon,Thrissur,Kerala,Electronics,Power Bank,2,1299,2598,5,650
+1023,03/03/2024,Santosh Yadav,Kanpur,Uttar Pradesh,Clothing,Winter Jacket,1,1999,1999,15,400
+1024,06/03/2024,Lakshmi Iyer,Madurai,Tamil Nadu,Home & Kitchen,Storage Boxes,3,349,1047,0,315
+1025,09/03/2024,Vikram Choudhary,Jodhpur,Rajasthan,Electronics,Webcam,1,1499,1499,0,450
+1026,12/03/2024,Reena Kapoor,Amritsar,Punjab,Books,Business Analytics,1,799,799,0,320
+1027,15/03/2024,Dinesh Kulkarni,Nashik,Maharashtra,Clothing,Polo T-Shirt,3,499,1497,10,360
+1028,18/03/2024,Meera Ghosh,Kolkata,West Bengal,Home & Kitchen,Dinner Set,1,1899,1899,5,570
+1029,21/03/2024,Arun Tripathi,Allahabad,Uttar Pradesh,Electronics,Keyboard,1,999,999,0,300
+1030,24/03/2024,Shalini Verma,Gurgaon,Haryana,Books,Data Visualization,2,549,1098,0,440
